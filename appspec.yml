@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /react-demo/.next
+  - source: /react-demo
     destination: /var/www/html/
 hooks:
   BeforeInstall:
